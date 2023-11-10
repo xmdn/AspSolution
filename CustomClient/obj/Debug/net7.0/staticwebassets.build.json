@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sDNTM0rq2fYnl3213YId1qk8uaYM8FqRdLMAs/YKXi4=",
+  "Source": "CustomClient",
+  "BasePath": "_content/CustomClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
