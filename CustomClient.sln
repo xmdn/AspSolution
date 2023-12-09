@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomClient", "CustomClient\CustomClient.csproj", "{496BC520-74B8-4084-9A7D-C63D1B71B4B7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomClient.API", "CustomClient.API\CustomClient.API.csproj", "{496BC520-74B8-4084-9A7D-C63D1B71B4B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
