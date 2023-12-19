@@ -1,6 +1,17 @@
-﻿namespace CustomClient.Controllers;
+﻿using CustomClient.Application.Commands;
+using CustomClient.Models;
+using Microsoft.AspNetCore.Mvc;
 
-public class UserController
+namespace CustomClient.Controllers;
+
+[ApiController]
+[Route("user")]
+public class UserController : ControllerBase
 {
-    
+    [HttpPost]
+    public ItemResult Create(CreateUserCommand createUser)
+    {
+        
+        return ItemResult.SuccessResult();
+    }
 }

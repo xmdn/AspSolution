@@ -5,4 +5,8 @@
         <RootNamespace>CustomClient</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\CustomClient.Application\CustomClient.Application.csproj" />
+    </ItemGroup>
+
 </Project>
